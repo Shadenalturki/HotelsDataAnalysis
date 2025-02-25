@@ -25,7 +25,11 @@ CSV & Excel for Data Handling
 ## Contributors:
 Shaden Alturki
 
-Reem Alnasser
+Yara Bahmaid 
 
-Wijdan Alhashim
+Athbah Alaliwei
+
+Aljohara Albanyan
+
+Aafia Muhammad
 
