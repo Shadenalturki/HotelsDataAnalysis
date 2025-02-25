@@ -1,6 +1,7 @@
 # Hotels Data Analysis – Saudi Arabia
 ## Project Overview
-This project analyzes hotel listings in Saudi Arabia to identify trends in pricing, ratings, and customer reviews. Using data mining and visualization techniques, we explored factors affecting hotel prices and ratings. Our goal is to provide actionable insights for hotel owners, travelers, and policymakers to make data-driven decisions.
+This project aimed to assist policy makers and hotel owners in making data-driven decisions by analyzing hotel data from Booking.com. Through data scraping, cleaning, exploratory data analysis (EDA), and machine learning clustering, we identified key factors influencing hotel pricing, customer reviews, and amenities across Saudi Arabia.
+
 
 ## Key Features & Analysis
 • Data Preprocessing: Cleaning and structuring raw hotel data.
