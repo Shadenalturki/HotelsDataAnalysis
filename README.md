@@ -5,8 +5,11 @@ This project analyzes hotel listings in Saudi Arabia to identify trends in prici
 The dataset includes information on:
 
 • Hotel names, locations, and room types
+
 • Prices, star ratings, and number of reviews
+
 • Room features such as view, parking, pool, and wheelchair access
+
 Our goal is to provide actionable insights for hotel owners, travelers, and policymakers to make data-driven decisions.
 
 ## Key Features & Analysis
