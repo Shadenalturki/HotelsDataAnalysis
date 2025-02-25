@@ -4,22 +4,24 @@ This project aimed to assist policy makers and hotel owners in making data-drive
 
 
 ## Key Features & Analysis
-• Data Preprocessing: Cleaning and structuring raw hotel data.
+•  Data Scraping: Collected structured hotel data from Booking.com.
 
-• Exploratory Data Analysis (EDA): Visualizing trends in hotel ratings and pricing.
+• Data Cleaning & Preprocessing: Removed inconsistencies and prepared data for analysis.
 
-• Feature Engineering: Extracting insights from room types, star ratings, and reviews.
+• Exploratory Data Analysis (EDA): Uncovered trends in hotel pricing, ratings, and amenities.
 
-• Comparative Analysis: Identifying pricing differences based on location and amenities.
+• Clustering Analysis: Applied machine learning clustering to segment hotels based on pricing, amenities, and customer preferences.
 
-• Predictive Modeling (Optional): Using machine learning models to estimate hotel prices.
+• Comparative Analysis: Evaluated pricing differences based on location, star ratings, and features.
 
 ## Technologies & Tools Used
 Python (Pandas, NumPy, Matplotlib, Seaborn)
 
-Jupyter Notebooks for Data Analysis
+Web Scraping (BeautifulSoup, Selenium)
 
-CSV & Excel for Data Handling
+Machine Learning (Clustering with K-Means)
+
+Data Visualization (Heatmaps, Correlation Plots)
 
 
 ## Contributors:
